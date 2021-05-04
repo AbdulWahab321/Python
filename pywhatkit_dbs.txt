@@ -1,0 +1,242 @@
+--------------------
+Date: 1:5:2021
+Time: 15:21
+Phone number: +917411364413
+Message: Hai
+--------------------
+Date: 1:5:2021
+Time: 15:31
+Phone number: +917411364413
+Message: Hai
+--------------------
+Date: 1:5:2021
+Time: 15:31
+Phone number: +917411364413
+Message: Hai
+--------------------
+Date: 1:5:2021
+Time: 15:31
+Phone number: +917411364413
+Message: Hai
+--------------------
+Date: 1:5:2021
+Time: 15:31
+Phone number: +917411364413
+Message: Hai
+--------------------
+Date: 1:5:2021
+Time: 15:31
+Phone number: +917411364413
+Message: Hai
+--------------------
+Date: 1:5:2021
+Time: 15:35
+Phone number: +917411364413
+Message: Hai
+--------------------
+Date: 1:5:2021
+Time: 15:50
+Phone number: +966540578423
+Message: Hai This message I have been sended using python
+--------------------
+Date: 2:5:2021
+Time: 11:6
+Phone number: +9179022345
+Message: hai
+--------------------
+Date: 2:5:2021
+Time: 11:11
+Phone number: +9179022345
+Message: hai
+--------------------
+Date: 2:5:2021
+Time: 11:13
+Phone number: +917902291345
+Message: hai
+--------------------
+Date: 2:5:2021
+Time: 11:15
+Phone number: +917411364413
+Message: hai
+--------------------
+Date: 2:5:2021
+Time: 11:20
+Phone number: +917411364413
+Message: hai
+--------------------
+Date: 2:5:2021
+Time: 11:21
+Phone number: +917411364413
+Message: Good Morning
+--------------------
+Date: 2:5:2021
+Time: 11:42
+Phone number: +96654 057 8423
+Message: Hai
+--------------------
+Date: 2:5:2021
+Time: 11:57
+Phone number: +96654 057 8423
+Message: Python
+--------------------
+Date: 2:5:2021
+Time: 12:5
+Phone number: +917411364413
+Message: This Is Python Try
+--------------------
+Date: 2:5:2021
+Time: 12:5
+Phone number: +917411364413
+Message: This is my Python automatic whatsapp sending software Debug
+--------------------
+Date: 2:5:2021
+Time: 12:10
+Phone number: +966540578423
+Message:  Please Ignore this message
+--------------------
+Date: 2:5:2021
+Time: 3:2
+Phone number: +917411364413
+Message: I love you
+--------------------
+Date: 2:5:2021
+Time: 19:25
+Phone number: +917411364413
+Message: Are you free now
+--------------------
+Date: 2:5:2021
+Time: 21:47
+Phone number: +917411364413
+Message: Good Night Maa'm Have a nice sleep sended using python
+--------------------
+Date: 3:5:2021
+Time: 8:14
+Phone number: +917411364413
+Message: h
+--------------------
+Date: 3:5:2021
+Time: 5:44
+Phone number: +917411364413
+Message: hjgfb
+--------------------
+Date: 3:5:2021
+Time: 6:50
+Phone number: +918565485
+Message: ef
+--------------------
+Date: 3:5:2021
+Time: 9:52
+Phone number: +917411364413
+Message: hai
+--------------------
+Date: 3:5:2021
+Time: 9:56
+Phone number: +9155645654
+Message: hai
+--------------------
+Date: 3:5:2021
+Time: 10:1
+Phone number: +917411364413
+Message: Python: Auto Whatsapp Message Sender App Update Finish
+--------------------
+Date: 3:5:2021
+Time: 11:11
+Group_id: KOlwnHs92HB360XdKKJll1
+Message: hai
+--------------------
+Date: 3:5:2021
+Time: 11:20
+Group_id: KOlwnHs92HB360XdKKJll1
+Message: hai
+--------------------
+Date: 3:5:2021
+Time: 11:24
+Group_id: KOlwnHs92HB360XdKKJll1
+Message: HAUIAI
+--------------------
+Date: 3:5:2021
+Time: 11:39
+Group_id: print("Invalid Character Please type G or P")
+conf = str(input("To where you want to send message group or private"))
+Message: HI
+--------------------
+Date: 3:5:2021
+Time: 11:56
+Group_id: ijwdcw
+Message: fjekf\
+--------------------
+Date: 3:5:2021
+Time: 12:4
+Group_id: efcw
+Message: fe
+--------------------
+Date: 3:5:2021
+Time: 12:12
+Group_id: fgbyuejbg
+Message: erjfbewukjg
+--------------------
+Date: 3:5:2021
+Time: 12:18
+Group_id: gtrk
+Message: gre
+--------------------
+Date: 3:5:2021
+Time: 12:20
+Group_id: erhjnf
+Message: erkj
+--------------------
+Date: 3:5:2021
+Time: 12:23
+Group_id: fekjjkf
+Message: jfe
+--------------------
+Date: 3:5:2021
+Time: 12:31
+Group_id: fekjk
+Message: mk
+--------------------
+Date: 3:5:2021
+Time: 12:33
+Group_id: jhbzdf
+Message: jhbd
+--------------------
+Date: 3:5:2021
+Time: 12:39
+Group_id: jfd
+Message: fnj
+--------------------
+Date: 3:5:2021
+Time: 12:42
+Group_id: jef
+Message: ekj
+--------------------
+Date: 3:5:2021
+Time: 12:46
+Phone number: +91756435434
+Message: 12fvc
+--------------------
+Date: 3:5:2021
+Time: 16:34
+Phone number: +917411364413
+Message: Python:Whatsapp auto messager Big Updated Finished
+--------------------
+Date: 3:5:2021
+Time: 17:18
+Group_id: KOlwnHs92HB360XdKKJll1
+Message: Lolanmar
+--------------------
+Date: 3:5:2021
+Time: 17:54
+Group_id: KOlwnHs92HB360XdKKJll1
+Message: Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda Poda 
+--------------------
+Date: 3:5:2021
+Time: 19:50
+Phone number: +917411364413
+Message: hai
+--------------------
+Date: 3:5:2021
+Time: 19:59
+Group_id: KOlwnHs92HBGYT3KKJll1
+Message: hei
+--------------------
